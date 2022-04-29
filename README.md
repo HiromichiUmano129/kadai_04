@@ -1,13 +1,8 @@
-# 課題4 -LINE風アプリ- 
+# easy-chat
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fkappa0923%2Feasy-chat.git)
 
-## ①課題内容（どんな作品か） 
-- HTML,CSS,JSを使用したLINE風アプリの制作
+## Open in Cloud Shellについて
+https://cloud.google.com/shell/docs/open-in-cloud-shell
 
-## ②工夫した点・こだわった点 
--
-
-## ③質問・疑問（あれば） 
-- 
-
-## ④その他（感想、シェアしたいことなんでも） 
--最低限の機能実装となっております。改善は引き続きGWに行います。![image](https://user-images.githubusercontent.com/101577116/165969982-8b25f05b-8ea7-4674-9906-7c2ed3da1d1d.png)
+## LICENSE
+The MIT License (MIT)
